@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **justin@clouddefenselabs.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/clouddefenselabs/clouddefenselabs.github.io/blob/main/assets/static/resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/clouddefenselabs/clouddefenselabs.github.io/blob/main/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
