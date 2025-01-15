@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning/brushing up on **Python** and **AI** tools
 
-- 📝 I regularly write articles on [https://www.justin-m-johnson.com](https://www.justin-m-johnson.com)
+- 📝 I regularly write articles on [https://www.justinmjohnson.com](https://www.justinmjohnson.com)
 
 - 📫 How to reach me **mail@justinmjohnson.com**
 
