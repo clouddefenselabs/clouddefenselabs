@@ -6,7 +6,7 @@
 <a href="https://twitter.com/clouddefenselabsdotcom" target="blank"><img src="https://img.shields.io/twitter/follow/clouddefenselabsdotcom?logo=twitter&style=for-the-badge" alt="clouddefenselabsdotcom" /></a>
 <a href="https://semgrep.dev/"> <img src="https://img.shields.io/badge/Semgrep_status-Monitored-green" alt="semgrepstatus"> </a>
 <a href="https://hub.docker.com/u/clouddefenselabs" target="blank"><img src="https://img.shields.io/badge/dockerhub-images-success.svg?logo=Docker" alt="DockerHub"></a></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clouddefenselabs" alt="clouddefenselabs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="justin-m-johnson" alt="justin-m-johnson" /></a> </p>
 
 
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning/brushing up on **Python** and **AI** tools
 
-- 📝 I regularly write articles on [https://www.clouddefenselabs.com](https://www.clouddefenselabs.com)
+- 📝 I regularly write articles on [https://www.justin-m-johnson.com](https://www.justin-m-johnson.com)
 
 - 📫 How to reach me **justin@clouddefenselabs.com**
 
